@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MontyHall
+comment0.text=\ \r\n\ (a)\ Declared\ the\ fields\ listed\ in\ the\ scenario\r\n
+comment1.params=
+comment1.target=MontyHall()
+comment1.text=\ \r\n\ (b)\ add\ public\ zero-parameter\ constructor\r\n
+comment2.params=
+comment2.target=int\ setUp()
+comment2.text=\r\n\ (c)\ method\ clears\ doors\ then\ populates\ it\ with\ two\ instances\ of\ string\ "goat"\ and\ one\ of\ the\ String\ "car"\ \r\n
+comment3.params=
+comment3.target=int\ getContestantChoice()
+comment3.text=\r\n\ (d)\ method\ get\ contestant's\ choice\ this\ returns\ random\ integer\ between\ 1\ and\ 3\ (inclusive),\ which\ represents\ the\ original\ door\ that\ the\ contestant\ chooses.\r\n
+comment4.params=contestantChoice
+comment4.target=int\ findAlternativeDoor(int)
+comment4.text=\r\n\ (e)public\ method\ that\ returns\ an\ int,\ with\ the\ signature\r\n
+comment5.params=isStick
+comment5.target=boolean\ playGame(boolean)
+comment5.text=\r\n\ (f)\ Play\ Monty\ Hall\ game\ parameter\ indicates\ whether\ the\ contestant's\ chosen\ strategy\ is\ to\ stick\ or\ switch.\r\n
+comment6.params=numRuns
+comment6.target=void\ simulate(int)
+comment6.text=\r\n\ (g)Simulates\ the\ number\ of\ runs\ for\ a\ specified\ number\r\n
+numComments=7
